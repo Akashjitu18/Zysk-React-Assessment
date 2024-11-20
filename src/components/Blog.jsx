@@ -37,7 +37,7 @@ const BlogCard = ({ image, category, title, description, profileImage, author, d
 const Blog = () => {
     const blogData = [
         {
-            image: '/images/Image.png',
+            image: 'public/images/Image.png',
             category: 'Design',
             title: 'UX review presentations',
             description: 'How do you create compelling presentations that wow your colleagues and impress your managers?',
