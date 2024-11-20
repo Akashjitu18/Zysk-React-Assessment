@@ -5,7 +5,7 @@ const BlogCard = ({ image, category, title, description, profileImage, author, d
         <div className="h-full rounded-lg overflow-hidden">
             <img
                 className="w-[384px] h-[240px] object-cover object-center"
-                src={"image"}
+                src={image}
                 alt="blog"
             />
             <div className="py-2">
@@ -37,7 +37,7 @@ const BlogCard = ({ image, category, title, description, profileImage, author, d
 const Blog = () => {
     const blogData = [
         {
-            image: 'images\Image.png',
+            image: '"images\Image.png"',
             category: 'Design',
             title: 'UX review presentations',
             description: 'How do you create compelling presentations that wow your colleagues and impress your managers?',
