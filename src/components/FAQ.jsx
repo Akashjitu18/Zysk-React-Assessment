@@ -53,7 +53,7 @@ const FAQ = () => {
       <div className="bg-gray-50 rounded-lg p-6 mb-20 text-center max-w-7xl mx-auto">
         <img
           className=" mx-auto rounded-full mb-4"
-          src="src/assets/Avatar group.png"
+          src="images\Avatar group.png"
           alt="Avatar"
         />
         <h4 className="text-xl font-semibold">Still have questions?</h4>

@@ -40,13 +40,13 @@ const Hero = () => {
 
                 <img
                     className="border-x-8 border-t-8 border-black rounded-t-3xl w-full hidden sm:block"
-                    src="src/assets/Screen mockup (REPLACE FILL).png"
+                    src="images\Screen mockup (REPLACE FILL).png"
                     alt="ss"
                 />
 
                 <img
                     className="border-4 border-black rounded-2xl w-full sm:hidden"
-                    src="src/assets/Screen mockup (REPLACE FILL) (1).png"
+                    src="images\Screen mockup (REPLACE FILL) (1).png"
                     alt="ss"
                 />
             </div>

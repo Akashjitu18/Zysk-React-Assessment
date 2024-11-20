@@ -11,10 +11,10 @@ const Features_2 = () => {
                     <p className="lg:w-1/2 w-xl leading-relaxed text-gray-600 text-lg">Powerful, self-serve product and growth analytics to help you convert, engage, and retain more users. Trusted by over 4,000 startups.</p>
                     <div className="relative mt-16">
                         
-                        <img className="hidden md:block" src="src/assets/Content.png" alt="mobile" />
+                        <img className="hidden md:block" src="images\Content.png" alt="mobile" />
                         
                        
-                        <img className="md:hidden mb-5" src="src/assets/Content (1).png" alt="mobile-small" />
+                        <img className="md:hidden mb-5" src="images\Content (1).png" alt="mobile-small" />
                     </div>
                 </div>
                     <div className="flex flex-wrap -m-4">

@@ -86,7 +86,7 @@ const Footer = () => {
             <hr />
 
             <div className="sm:flex sm:justify-between sm:items-center m-5">
-                <img src="src/assets/Logo wrap.png" alt="logo" />
+                <img src="images\Logo wrap.png" alt="logo" />
                 <span className="text-sm text-gray-500">
                     © 2077 Untitled UI. All rights reserved.
                 </span>

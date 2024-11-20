@@ -4,7 +4,7 @@ const Testimonial = () => {
   return (
     <div className="bg-[#F9FAFB] flex flex-col items-center p-6 md:p-20">
       
-      <img className="m-5 max-w-[150px]" src="src/assets/Fictional company logo (6).png" alt="Company Logo" />
+      <img className="m-5 max-w-[150px]" src="images\Fictional company logo (6).png" alt="Company Logo" />
 
      
       <p className="font-semibold text-2xl md:text-4xl text-center px-6 md:px-32">
@@ -13,7 +13,7 @@ const Testimonial = () => {
 
       
       <div className="mt-10 flex flex-col items-center gap-2">
-        <img src="src/assets/Avatar.png" alt="User Avatar"  />
+        <img src="images\Avatar.png" alt="User Avatar"  />
         <p className="font-semibold text-lg md:text-xl">Candice Wu</p>
         <p className="text-gray-500 text-sm md:text-base">Product Manager, Sisyphus</p>
       </div>

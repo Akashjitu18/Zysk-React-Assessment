@@ -63,7 +63,7 @@ const Header = () => {
             <header className="text-gray-600 body-font">
                 <div className="container mx-auto flex flex-wrap p-5 items-center justify-between">
                     <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-                        <img src="src/assets/Logo wrap.png" alt="logo" />
+                        <img src="images\Logo wrap.png" alt="logo" />
                     </a>
 
 
@@ -181,7 +181,7 @@ const Header = () => {
 
                                     <div className="w-9/12 p-4 bg-gray-100">
                                         <img
-                                            src="src/assets/Image (1).png"
+                                            src="images\Image (1).png"
                                             alt="Product Image"
                                             className="w-full h-36 object-cover rounded-lg"
                                         />
@@ -308,7 +308,7 @@ const Header = () => {
 
                                     <div className="w-9/12 p-4 bg-gray-100">
                                         <img
-                                            src="src/assets/Image (1).png"
+                                            src="images\Image (1).png"
                                             alt="Product Image"
                                             className="w-full h-36 object-cover rounded-lg"
                                         />
@@ -327,7 +327,7 @@ const Header = () => {
                     <div className="relative">
                         <img
                             className="cursor-pointer hidden md:block"
-                            src="src/assets/Avatar.png"
+                            src="images\Avatar.png"
                             alt="profile"
                             onClick={toggleProfileDropdown}
                         />
@@ -338,7 +338,7 @@ const Header = () => {
                             >
                                 <div className="flex items-center p-4 border-b">
                                     <img
-                                        src="src/assets/Avatar.png"
+                                        src="images\Avatar.png"
                                         alt="Profile"
                                         className="w-8 h-8 rounded-full mr-4"
                                     />
